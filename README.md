@@ -9,10 +9,10 @@ This project explain basic Git and Github commands
 - Merging
 - Conflicts Handling
 
-## Installations
--- bash
+## Installations 
+``` bash
 git clone https://github.com/username/repo.git
-
+```
 
 ## Important 
 use # For Title
